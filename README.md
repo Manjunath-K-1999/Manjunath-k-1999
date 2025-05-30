@@ -11,7 +11,7 @@ Excel | Power BI | SQL | BigQuery | Tableau (Basics) | Git | R (Basics)
 
 ## 📜 Certifications
 - ✅ Google Data Analytics Professional Certificate (https://www.coursera.org/account/accomplishments/specialization/0PBZC172GL5P)
-- ✅ Codebasics Excel Course – Completed with Projects
+- ✅ Codebasics Excel Course – Completed with Projects (https://codebasics.io/certificate/CB-51-412193)
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/manjunath1999/)
