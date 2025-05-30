@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Manjunath K
-🎯 Data Analyst | Excel | SQL | Power BI | Google Certified
+🎯 A Google Certified Data Analyst passionate about turning raw data into clear business insights. I work with Excel, SQL, and BigQuery, and I'm currently learning Power BI and Python to level up my analytics skills. Welcome to my data journey!
 
 ## 🔥 Projects
 - 📊 [Sales Analytics Dashboard](link-here)
@@ -10,11 +10,11 @@
 Excel | Power BI | SQL | BigQuery | Tableau (Basics) | Git | R (Basics)
 
 ## 📜 Certifications
-- ✅ Google Data Analytics Professional Certificate
+- ✅ Google Data Analytics Professional Certificate (https://www.coursera.org/account/accomplishments/specialization/0PBZC172GL5P)
 - ✅ Codebasics Excel Course – Completed with Projects
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manjunath1999/)
 - 📬 Email: kiranmanjunath521gamil.com
 
 
