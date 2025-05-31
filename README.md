@@ -3,7 +3,7 @@
 
 ## 🔥 Projects
 - 📊 [Sales Analytics Dashboard](https://github.com/Manjunath-K-1999/Excel-Sales-Analytics)
-- 💰 [Finance Analytics Dashboard](https://github.com/Manjunath-K-1999/Excel-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)
+- 💰 [Finance Analytics Dashboard](https://github.com/Manjunath-K-1999/Excel-Finance-Analytics)
 - 📈 More projects coming soon...
 
 ## 🛠️ Tools & Technologies
