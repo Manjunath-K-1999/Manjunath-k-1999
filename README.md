@@ -2,7 +2,7 @@
 🎯 A Google Certified Data Analyst passionate about turning raw data into clear business insights. I work with Excel, SQL, and BigQuery, and I'm currently learning Power BI and Python to level up my analytics skills. Welcome to my data journey!
 
 ## 🔥 Projects
-- 📊 [Sales Analytics Dashboard](https://github.com/Manjunath-K-1999/Excel-Sales-Analytics/blob/main/Customer_Performance_Report.pdf)
+- 📊 [Sales Analytics Dashboard](https://github.com/Manjunath-K-1999/Excel-Sales-Analytics)
 - 💰 [Finance Analytics Dashboard](https://github.com/Manjunath-K-1999/Excel-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)
 - 📈 More projects coming soon...
 
